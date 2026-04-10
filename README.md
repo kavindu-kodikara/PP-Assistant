@@ -1,4 +1,4 @@
-# Views Tool - Ping-Pong View Automator
+# Views Tool - Video Views Automator
 
 **Views Tool** is a production-grade Android application designed to automate the process of boosting views for short-form video content (TikTok, YouTube Shorts, etc.) in a "Ping-Pong" loop pattern. 
 
