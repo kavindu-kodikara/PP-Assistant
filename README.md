@@ -1,6 +1,6 @@
-# Views Tool - Video Views Automator
+# PP-Assistant - Video Views Automator
 
-**Views Tool** is a production-grade Android application designed to automate the process of boosting views for short-form video content (TikTok, YouTube Shorts, etc.) in a "Ping-Pong" loop pattern. 
+**PP-Assistant** is a production-grade Android application designed to automate the process of boosting views for short-form video content (TikTok, YouTube Shorts, etc.) in a "Ping-Pong" loop pattern. 
 
 Built with a focus on clean Android architecture and system-level interaction, this tool uses a floating overlay and the Android Accessibility API to physically navigate through videos automatically.
 
@@ -58,9 +58,9 @@ Google Play Protect may block the installation because this app uses **Accessibi
    - Once the installation alert appears, click **"More details"** and then **"Install anyway."**
    - Turn your internet back on after installation.
 
-2. **Disable Play Protect**:
+2. **Disable or Pause Play Protect**:
    - Open **Play Store** > Tap your **Profile Icon** > **Play Protect** > **Settings (Gear Icon)**.
-   - Turn **OFF** "Scan apps with Play Protect."
+   - Turn **OFF** (or **Pause**) "Scan apps with Play Protect."
    - Install the APK and then turn it back on.
 
 ### Why is it blocked?
