@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.kv.viewstool",
+  "applicationId": "com.user.ppassist",
   "variantName": "release",
   "elements": [
     {
@@ -33,5 +33,5 @@
       ]
     }
   ],
-  "minSdkVersionForDexing": 28
+  "minSdkVersionForDexing": 26
 }

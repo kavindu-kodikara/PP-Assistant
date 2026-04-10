@@ -3,15 +3,13 @@ plugins {
 }
 
 android {
+    compileSdk = 34
     namespace = "com.kv.viewstool"
-    compileSdk {
-        version = release(36)
-    }
 
     defaultConfig {
-        applicationId = "com.kv.viewstool"
-        minSdk = 28
-        targetSdk = 36
+        applicationId = "com.user.ppassist"
+        minSdk = 26
+        targetSdk = 34
         versionCode = 1
         versionName = "1.0"
 

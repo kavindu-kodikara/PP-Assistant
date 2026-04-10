@@ -1,4 +1,5 @@
 <resources>
-    <string name="app_name">Views Tool</string>
+    <string name="app_name">PP Assistant</string>
     <string name="channel_name">Views Loop Controller</string>
+    <string name="accessibility_description">Automates scrolling gestures to allow hands-free viewing of video content.</string>
 </resources>
