@@ -31,7 +31,7 @@ Built with a focus on clean Android architecture and system-level interaction, t
 
 ## 🚀 How to Use
 
-1. **Download APK**: Go to the [Releases](https://github.com/kavindu-kodikara/Views-Tool/releases) page and download the latest `ViewsTool.apk`.
+1. **Download APK**: Go to the [Releases](https://github.com/kavindu-kodikara/PP-Assistant/releases) page and download the latest `ViewsTool.apk`.
 2. **Install**: Open the APK on your Android device and install it (you may need to allow "Unknown Sources").
 3. **Grant Permissions**:
    - **Overlay Permission**: Allow the app to "Display over other apps".
