@@ -1,6 +1,9 @@
-# PP-Assistant - Video Views Automator
+# PP-Assistant - TikTok Views Booster
 
-**PP-Assistant** is a production-grade Android application designed to automate the process of boosting views for short-form video content (TikTok, YouTube Shorts, etc.) in a "Ping-Pong" loop pattern. 
+**PP-Assistant** is a production-grade Android application designed to automate the process of boosting views for TikTok and other short-form video content in a "Ping-Pong" loop pattern. 
+
+> [!IMPORTANT]
+> **Performance Tip**: For auto-scroll gestures to work correctly, please disable other floating systems like **Assistive Ball** or **Quick Ball** before starting this tool. 
 
 Built with a focus on clean Android architecture and system-level interaction, this tool uses a floating overlay and the Android Accessibility API to physically navigate through videos automatically.
 
