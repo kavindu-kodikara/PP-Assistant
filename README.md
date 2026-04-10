@@ -31,7 +31,7 @@ Built with a focus on clean Android architecture and system-level interaction, t
 
 ## 🚀 How to Use
 
-1. **Download APK**: Go to the [Releases](https://github.com/USER_NAME/REPO_NAME/releases) page and download the latest `ViewsTool.apk`.
+1. **Download APK**: Go to the [Releases](https://github.com/kavindu-kodikara/Views-Tool/releases) page and download the latest `ViewsTool.apk`.
 2. **Install**: Open the APK on your Android device and install it (you may need to allow "Unknown Sources").
 3. **Grant Permissions**:
    - **Overlay Permission**: Allow the app to "Display over other apps".
@@ -44,6 +44,29 @@ Built with a focus on clean Android architecture and system-level interaction, t
    - Navigate to TikTok or YouTube Shorts.
    - Tap the circular **Play** button on the tiny blue strip in the top-left corner.
 6. **Sit Back**: The tool will now automatically swipe through the videos in a ping-pong pattern!
+
+---
+
+## ⚠️ Installation Troubleshooting (Play Protect)
+
+Google Play Protect may block the installation because this app uses **Accessibility Services** and **Overlays** to automate swipes. Since the app is not on the Play Store, Google treats these powerful permissions as "Harmful."
+
+### If the "Install" button is blocked:
+1. **The Airplane Mode Trick**: 
+   - Before opening the APK, turn **OFF** your Wi-Fi and Mobile Data (or turn **ON** Airplane Mode).
+   - Install the app while offline. This prevents Play Protect from checking its online database.
+   - Once the installation alert appears, click **"More details"** and then **"Install anyway."**
+   - Turn your internet back on after installation.
+
+2. **Disable Play Protect**:
+   - Open **Play Store** > Tap your **Profile Icon** > **Play Protect** > **Settings (Gear Icon)**.
+   - Turn **OFF** "Scan apps with Play Protect."
+   - Install the APK and then turn it back on.
+
+### Why is it blocked?
+Android security systems are designed to flag any unknown app that can "read the screen" or "perform touch gestures." Because this tool *must* do those things to auto-swipe videos, it is flagged by default. **The app is safe to use as it only performs the gestures you configure.**
+
+---
 
 ---
 
